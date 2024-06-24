@@ -2,7 +2,7 @@ module github.com/JeremyJalpha/WhatsAppBot_CloudAPI
 
 go 1.21.2
 
-require github.com/JeremyJalpha/WhatsAppBot v1.3.4
+require github.com/JeremyJalpha/WhatsAppBot v1.3.6
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
